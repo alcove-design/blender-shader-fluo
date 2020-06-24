@@ -43,12 +43,13 @@ Basic setup looks like this:
 
 ## Approach
 
-A regular point light is used as the black light.
-A node group determines a material's fluorescence according to the distance between the object's surface and the lamp, plus some variables
+A regular point light is used as the black light. By default, it emits a dark purple light, but it can be totally invisible to the eye.
+A node group determines a material's fluorescence according to the distance between the object's surface and the lamp, plus some variables.
 
 ### Benefits
 
 * Black light can be combined with regular lights.
+* The blacklight can actually be black an not emit any visible light.
 * Fluorescent color emission can be controlled by the blacklights' position and power - and animated.
 * Objects have a regular color reacting on regular light, and independent from the fluorescent emission.
 * Control fluorescence per material, and not for the whole scene.
@@ -72,6 +73,5 @@ Other approaches can be found in the wild:
 This creation is provided under a Creative Commons Attribution license (CC BY). Please read [LICENSE.md](LICENSE.md) for more details.
 
 Licensor: Mehdi El Fadil, Alcove design.
-
 
 [experimental-img]: https://img.shields.io/badge/stability-experimental-orange.svg?style=flat
