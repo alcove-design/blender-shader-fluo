@@ -11,7 +11,7 @@ Not perfect, c.f. caveats below.
 
 ## Demo
 
-[images to be added here]
+![demo](img/demo.gif?raw=true)
 
 ## Usage
 
@@ -34,7 +34,7 @@ Assuming `shader-fluo.blend` is downloaded in your computer.
 
 Basic setup looks like this:
 
-![demo 1](img/simple-shader-setup.png?raw=true)
+![shader node screenshot](img/simple-shader-setup.png?raw=true)
 
 ### Pro-tips
 
