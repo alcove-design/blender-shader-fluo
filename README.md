@@ -17,9 +17,7 @@ Not perfect, c.f. caveats below.
 
 Assuming `shader-fluo.blend` is downloaded in your computer.
 
-1. Use Blender's `File \ Append` feature in order to add the following to your scene:
-  * `blacklight` object
-  * `shader-fluo` node group
+1. Use Blender's `File \ Append` feature in order to add the `shader-fluo` node group to your scene.
 2. Select the object you want to make fluorescent, and go to the Shader editor.
   * Add the `shader-fluo` node group.
   * Connect its output to the material output
