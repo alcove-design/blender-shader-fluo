@@ -11,7 +11,7 @@ Not perfect, c.f. caveats below.
 
 ## Demo
 
-![demo](img/demo.gif?raw=true)
+![demo](img/demo.png?raw=true)
 
 ## Usage
 
