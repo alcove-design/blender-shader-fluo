@@ -6,9 +6,6 @@ Works with both cycles and evee rendering engines.
 
 Not perfect, c.f. caveats below.
 
-![stability - experimental][experimental-img]
-
-
 ## Demo
 
 ![demo](img/demo.png?raw=true)
@@ -71,5 +68,3 @@ Other approaches can be found in the wild:
 This creation is provided under a Creative Commons Attribution license (CC BY). Please read [LICENSE.md](LICENSE.md) for more details.
 
 Licensor: Mehdi El Fadil, Alcove design.
-
-[experimental-img]: https://img.shields.io/badge/stability-experimental-orange.svg?style=flat
